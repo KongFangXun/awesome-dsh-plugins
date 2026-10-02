@@ -14,7 +14,7 @@
 
 ## 健康检查 / 诊断 / 审计
 
-- [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) — 插件健康检查：扫描清单协议/patch 格式/构建陷阱/hub 状态 ⭐26 · `dsh plugin add @deepseek-ai/dsh-plugin-check`
+- [dsh-plugin-check](https://github.com/omdsh-dev/dsh-plugin-check) — 插件健康检查：扫描清单协议/patch 格式/构建陷阱/hub 状态 ⭐25 · `dsh plugin add @deepseek-ai/dsh-plugin-check`
 - [dsh-plugin-doctor](https://github.com/lin-cheng-lab/dsh-plugin-doctor) — 插件体检：安装前检查 peer 版本兼容性 · `dsh plugin add dsh-plugin-doctor`
 - [dsh-doctor](https://github.com/asdf17128/dsh-doctor) — profile 健康检查：找 patch 静默破坏的配置/死 patch/工具名冲突 ⭐1
 - [dsh-capability-inspector](https://github.com/tree201/dsh-capability-inspector) — DSH Doctor + 运行时诊断（工具/模型/技能/工作区/会话/插件/MCP 排障） ⭐1 · `dsh plugin add dsh-capability-inspector`
@@ -44,8 +44,8 @@
 - [dsh-multica-runtime](https://github.com/multica-ai/dsh-multica-runtime) — Multica 的 DSH runtime 桥接（stdio JSONL 协议） ⭐66 · `dsh plugin add @multica-ai/dsh-runtime`
 - [session-teleport](https://github.com/omdsh-dev/session-teleport) — PostgreSQL 单写者会话交接服务 ⭐2 · `dsh plugin add @mattheliu/session-teleport`
 - [session-persistence-rdb](https://github.com/morlay/session-persistence-rdb) — session 关系型数据库持久化 ⭐3 · `dsh plugin add @morlay/session-persistence-rdb`
-- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐5329 · `dsh plugin add github:dsh-market/dsh-market`
-- [dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) — dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin 目录/安装/卸载 ⭐105 · `dsh plugin add github:Sanqi-normal/dsh-webui-market-plugin`
+- [dsh-market](https://github.com/dsh-market/dsh-market) — DSH 可视化插件市场：浏览/搜索/一键安装 ⭐5337 · `dsh plugin add github:dsh-market/dsh-market`
+- [dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin) — dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin 目录/安装/卸载 ⭐104 · `dsh plugin add github:Sanqi-normal/dsh-webui-market-plugin`
 
 - [dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager) — DSH 配置备份 / 恢复 / 导出 / 导入 / 迁移与同步：dry-run 预览、冲突逐项决策、失败自动回滚、跨机路径重映射、可选加密凭据载荷 ⭐146 · `dsh plugin add dsh-config-manager`
 - [sofagent](https://github.com/KongFangXun/sofagent) — 开源 FDE Harness 约束层：24 条 git diff 审计规则 + 80 个 MCP 工具 + 9 款 cordis-plugin 深度集成，Agent 违规当场拦截 ⭐51
