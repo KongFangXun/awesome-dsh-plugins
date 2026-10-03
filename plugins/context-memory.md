@@ -40,7 +40,7 @@
 - [dsh-memory_rollout](https://github.com/Bionic-forest/dsh-memory_rollout) — Codex 风格的 DSH 会话持久记忆：一会话一草稿、分层披露、克制被动、幂等整合，跨会话记住事实/偏好/决策并带可核验引用 ⭐2 · `dsh plugin add dsh-memory_rollout`
 - [dsh-squeeze-command](https://github.com/hardes11/dsh-squeeze-command) — 手动、面向预算的上下文压缩：对话模型圈定要总结的范围，廉价 flash 级路由生成检查点摘要 ⭐1 · `dsh plugin add dsh-squeeze-command`
 - [dsh-kb](https://github.com/weibaohui/dsh-kb) — 团队知识库：离线知识共享（FDE 盒子场景），浏览/全文检索/加工入口；raw 入料自动入队、bot 会话串行蒸馏成文（Karpathy LLM Wiki 模式：raw 不可变 / 两步加工 / log 流水 / 月度 lint） ⭐2 · `dsh plugin add @weibaohui/dsh-kb`
-- [dsh-memento](https://github.com/PerryLink/dsh-memento) — 有界、分层、审批门、可审计的跨会话记忆：`ctx.memory` 服务 + 零依赖 SQLite + memory 工具 + 冻结快照注入 ⭐133 · `dsh plugin add dsh-memento`
+- [dsh-memento](https://github.com/PerryLink/dsh-memento) — 有界、分层、审批门、可审计的跨会话记忆：`ctx.memory` 服务 + 零依赖 SQLite + memory 工具 + 冻结快照注入 ⭐134 · `dsh plugin add dsh-memento`
 
 - [hermes-loop](https://github.com/weibaohui/hermes-loop) — 自动复盘：对话收尾后自动把有价值的经验蒸馏成可复用技能存入技能库，支持审批模式与技能库治理（归档/恢复，永不直接删除） ⭐6 · `dsh plugin add @weibaohui/hermes-loop`
 - [dsh-session-manager](https://github.com/SunshineR04/dsh-session-manager) — 已归档会话管理：设置页列出/恢复/彻底删除（直接物理删除，无备份层），会话菜单红色删除项；已打开的会话也能立即删除（墓碑隐藏，重启后自动清理） ⭐1 · `dsh plugin add github:SunshineR04/dsh-session-manager`
