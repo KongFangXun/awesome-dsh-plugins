@@ -12,7 +12,7 @@
 ## 桌宠 / 表情 / 贴纸
 
 - [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) — 全手绘像素鲸鱼伙伴（眨眼/摆尾/喷水/爱心） ⭐39
-- [whale-girl](https://github.com/vlln/whale-girl) — 桌面宠物鲸鱼娘（QQ 宠物形态，可拖拽/投喂/玩耍） ⭐341 · `dsh plugin add whale-girl`
+- [whale-girl](https://github.com/vlln/whale-girl) — 桌面宠物鲸鱼娘（QQ 宠物形态，可拖拽/投喂/玩耍） ⭐342 · `dsh plugin add whale-girl`
 - [dsh-pixel-whale](https://github.com/yoke233/dsh-pixel-whale) — 活泼像素鲸鱼运行状态伴侣 · `dsh plugin add dsh-pixel-whale`
 - [dsh-blue-whale-maid](https://github.com/yuxino/dsh-blue-whale-maid) — 蓝鲸女仆桌面像素宠物 ⭐5 · `dsh plugin add dsh-blue-whale-maid`
 - [deepseek-pet](https://github.com/keleus/deepseek-pet) — 在 DSH 上养一只大蓝鲸 ⭐49 · `dsh plugin add deepseek-pet`
@@ -21,7 +21,7 @@
 
 ## 整活 / 音效 / 趣味
 
-- [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — 2005 中文站点风格整活广告（侧栏/信息流/弹窗，素材全虚构） ⭐646 · `dsh plugin add @dsh-external/dsh-ads`
+- [dsh-ads](https://github.com/Nagi-ovo/dsh-ads) — 2005 中文站点风格整活广告（侧栏/信息流/弹窗，素材全虚构） ⭐647 · `dsh plugin add @dsh-external/dsh-ads`
 - [dsh-stock-market](https://github.com/AnacondaKC/dsh-stock-market) — 股票行情数据插件（整活向） ⭐19 · `dsh plugin add dsh-stock-market`
 - [dsh-douyin](https://github.com/AnacondaKC/dsh-douyin) — 侧栏短视频：原生播放器、系列导航、历史回放 ⭐5 · `dsh plugin add dsh-douyin`
 - [deepseek-manners](https://github.com/Moeblack/deepseek-manners) — 每次消息后注入感谢语，做个有礼貌的人 ⭐14 · `dsh plugin add deepseek-manners`
@@ -54,7 +54,7 @@
 - [dsh-matrix](https://github.com/weibaohui/dsh-matrix) — 黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏 · `dsh plugin add @weibaohui/dsh-matrix`
 - [dsh-kite](https://github.com/weibaohui/dsh-kite) — 放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换 · `dsh plugin add @weibaohui/dsh-kite`
 
-- [dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — 元气鲸鱼娘桌宠：摸头养成 / 工作姿态联动 / 90+ 立绘 / 39 成就 / 自带设置面板，桌面端（DSH 0.2.0-rc.2）与旧版 Web 双端支持 ⭐109 · `dsh plugin add github:Sutera-Diffusus/dsh-whale-musume`
+- [dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — 元气鲸鱼娘桌宠：摸头养成 / 工作姿态联动 / 90+ 立绘 / 39 成就 / 自带设置面板，桌面端（DSH 0.2.0-rc.2）与旧版 Web 双端支持 ⭐111 · `dsh plugin add github:Sutera-Diffusus/dsh-whale-musume`
 
 <!-- nav:start -->
 ---
