@@ -34,7 +34,7 @@
 ## 教学 / 学习 / 研究
 
 - [dsh-learn-everything](https://github.com/cendaifeng/dsh-learn-everything) — 费曼学习模式：教→讲回→判→再解释，渲染为富 HTML 课程卡 ⭐8 · `dsh plugin add dsh-learn-everything`
-- [dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) — OpenMAIC 教学：课堂、幻灯片、交互组件、苏格拉底式教学 ⭐87 · `dsh plugin add @openmaic/dsh-openmaic`
+- [dsh-openmaic](https://github.com/THU-MAIC/dsh-openmaic) — OpenMAIC 教学：课堂、幻灯片、交互组件、苏格拉底式教学 ⭐88 · `dsh plugin add @openmaic/dsh-openmaic`
 - [dsh-scholar](https://github.com/lzszq/dsh-scholar) — 学术助手插件 ⭐47 · `dsh plugin add @dsh-scholar/research-plugin`
 - [dsh-101](https://github.com/bill9109/dsh-101) — DSH 文档阅读模式 ⭐6 · `dsh plugin add @dsh-external/dsh-101`
 - [dsh-reasoning-translator](https://github.com/pinkllo/dsh-reasoning-translator) — 让模型的思维链用你的语言输出 ⭐2 · `dsh plugin add dsh-reasoning-translator`
@@ -54,7 +54,7 @@
 - [dsh-matrix](https://github.com/weibaohui/dsh-matrix) — 黑客帝国数字雨：对话窗口铺上经典的绿色字符雨背景——雨柱倾泻而下、白炽雨头绿身拖尾，agent 正在生成的 token 原文实时掺进雨里；透明度/速度/密度/字号/配色全部可调，雨势跟随 agent 活跃度起伏 · `dsh plugin add @weibaohui/dsh-matrix`
 - [dsh-kite](https://github.com/weibaohui/dsh-kite) — 放风筝引擎：agent 编程时屏幕上放一只动画风筝——token 越多事件越密风筝飞得越高，随风漂移摆动，一根线牵在窗口底边；潍坊系框架卡组（沙燕/金鱼/蝴蝶/八卦/龙头等，硬翅软翅板式立体），形状×图案×配色全是可替换数据配置，支持把用户图片糊上风筝面、贴图随风筝姿态实时仿射变换 · `dsh plugin add @weibaohui/dsh-kite`
 
-- [dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — 元气鲸鱼娘桌宠：摸头养成 / 工作姿态联动 / 90+ 立绘 / 39 成就 / 自带设置面板，桌面端（DSH 0.2.0-rc.2）与旧版 Web 双端支持 ⭐111 · `dsh plugin add github:Sutera-Diffusus/dsh-whale-musume`
+- [dsh-whale-musume](https://github.com/Sutera-Diffusus/dsh-whale-musume) — 元气鲸鱼娘桌宠：摸头养成 / 工作姿态联动 / 90+ 立绘 / 39 成就 / 自带设置面板，桌面端（DSH 0.2.0-rc.2）与旧版 Web 双端支持 ⭐112 · `dsh plugin add github:Sutera-Diffusus/dsh-whale-musume`
 
 <!-- nav:start -->
 ---
