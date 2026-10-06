@@ -5,14 +5,14 @@
 - [dsh-toolkit](https://github.com/omdsh-dev/dsh-toolkit) — 零依赖工具十件套（time/encoding/json/calculator/csv/regex/markdown/diff/stat/schema）一键安装 ⭐28 · `dsh plugin add @deepseek-ai/dsh-toolkit`
 - [dsh-tool-calculator](https://github.com/omdsh-dev/dsh-tool-calculator) — 安全的数学表达式求值器，零依赖递归下降解析器 ⭐8 · `dsh plugin add @deepseek-ai/dsh-tool-calculator`
 - [dsh-tool-csv](https://github.com/omdsh-dev/dsh-tool-csv) — CSV 解析/查询/统计/转换（RFC 4180） ⭐4 · `dsh plugin add @deepseek-ai/dsh-tool-csv`
-- [dsh-tool-diff](https://github.com/omdsh-dev/dsh-tool-diff) — 文本/JSON/CSV/Markdown 结构化比较与 unified diff ⭐4 · `dsh plugin add @deepseek-ai/dsh-tool-diff`
+- [dsh-tool-diff](https://github.com/omdsh-dev/dsh-tool-diff) — 文本/JSON/CSV/Markdown 结构化比较与 unified diff ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-diff`
 - [dsh-tool-encoding](https://github.com/omdsh-dev/dsh-tool-encoding) — base64/url/hex 编解码、常用哈希、UUID 生成 ⭐4 · `dsh plugin add @deepseek-ai/dsh-tool-encoding`
 - [dsh-tool-json](https://github.com/omdsh-dev/dsh-tool-json) — JMESPath 子集 JSON 查询 ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-json`
-- [dsh-tool-markdown](https://github.com/omdsh-dev/dsh-tool-markdown) — HTML↔Markdown 转换、GFM 表格规范化、目录生成 ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-markdown`
+- [dsh-tool-markdown](https://github.com/omdsh-dev/dsh-tool-markdown) — HTML↔Markdown 转换、GFM 表格规范化、目录生成 ⭐4 · `dsh plugin add @deepseek-ai/dsh-tool-markdown`
 - [dsh-tool-regex](https://github.com/omdsh-dev/dsh-tool-regex) — 正则测试/提取/安全替换/静态解释（不执行代码） ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-regex`
 - [dsh-tool-schema](https://github.com/omdsh-dev/dsh-tool-schema) — JSON Schema 验证：validate/paths/explain/normalize ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-schema`
-- [dsh-tool-stat](https://github.com/omdsh-dev/dsh-tool-stat) — 描述统计/百分位数/频数分布/相关性 ⭐6 · `dsh plugin add @deepseek-ai/dsh-tool-stat`
-- [dsh-tool-time](https://github.com/omdsh-dev/dsh-tool-time) — 严格 ISO 8601 解析、IANA 时区、UTC 日历运算 ⭐4 · `dsh plugin add @deepseek-ai/dsh-tool-time`
+- [dsh-tool-stat](https://github.com/omdsh-dev/dsh-tool-stat) — 描述统计/百分位数/频数分布/相关性 ⭐5 · `dsh plugin add @deepseek-ai/dsh-tool-stat`
+- [dsh-tool-time](https://github.com/omdsh-dev/dsh-tool-time) — 严格 ISO 8601 解析、IANA 时区、UTC 日历运算 ⭐3 · `dsh plugin add @deepseek-ai/dsh-tool-time`
 - [dsh-tool-git](https://github.com/lxj808624/dsh-tool-git) — 结构化 Git 工具（status/diff/log/branch/stage/commit/stash/show）+ 危险命令守卫 ⭐3 · `dsh plugin add dsh-tool-git`
 - [dsh-test-runner](https://github.com/suimi8/dsh-test-runner) — 结构化 test_run：自动探测 vitest/jest/pytest/node:test 并解析失败摘要 ⭐2 · `dsh plugin add dsh-test-runner`
 - [dsh-security-scan](https://github.com/ben7am1n/dsh-security-scan) — 密钥/危险模式扫描（API key/token/私钥脱敏，零依赖） · `dsh plugin add dsh-security-scan`
