@@ -6,7 +6,7 @@
 
 ## 终端 TUI
 
-- [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) — Claude Code 风格全屏交互终端：像素鲸鱼顶栏、流式思考展开、双击 Esc 回滚、上下文/TPS 仪表 ⭐4124 · `dsh plugin add dsh-cc-tui`
+- [dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) — Claude Code 风格全屏交互终端：像素鲸鱼顶栏、流式思考展开、双击 Esc 回滚、上下文/TPS 仪表 ⭐4128 · `dsh plugin add dsh-cc-tui`
 - [dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) — DSH 终端 TUI（天枢） ⭐284 · `dsh plugin add @huiliyi37/dsh-tianshu-tui`
 - [dsh-pi-tui](https://github.com/lqhl/dsh-pi-tui) — Pi TUI 前端：流式 markdown、思考折叠、工具卡、斜杠命令 ⭐2
 - [deepseek-harness-tui](https://github.com/gxinxing/deepseek-harness-tui) — Ink/React 终端原生 TUI ⭐11 · `dsh plugin add deepseek-harness-tui`
@@ -18,12 +18,12 @@
 
 ## 桌面壳（多作者）
 
-- [deepseek-harness-desktop](https://github.com/chyra-moon/deepseek-harness-desktop) — Windows 原生桌面壳：1:1 官方 Web UI + 内置服务器托管 + 托盘驻留 ⭐21
+- [deepseek-harness-desktop](https://github.com/chyra-moon/deepseek-harness-desktop) — Windows 原生桌面壳：1:1 官方 Web UI + 内置服务器托管 + 托盘驻留 ⭐20
 - [deepseek-harness-desktop](https://github.com/Easyhoov/deepseek-harness-desktop-windows) — 非官方进程内 Windows 桌面应用（托盘 + 原生通知 + IPC） ⭐3
 - [dsh-desktop](https://github.com/bruc3van/dsh-desktop) — 社区维护的非官方桌面客户端（复用官方实例或内置运行时） ⭐92
 - [dsh-desktop](https://github.com/zsyu9779/dsh-desktop) — Wails(Go) 桌面壳，Codex 风格原生应用 ⭐9
 - [dsh-desktop](https://github.com/mrbbbaixue/dsh-desktop) — .NET 10 WPF + WebView2 桌面启动器 ⭐6
-- [dsh-desktop](https://github.com/dataelement/dsh-desktop) — 跨平台桌面应用 ⭐12050
+- [dsh-desktop](https://github.com/dataelement/dsh-desktop) — 跨平台桌面应用 ⭐12080
 - [dsh-desktop-electron](https://github.com/Void0312Aurora/dsh-desktop-electron) — 跨平台 Electron 桌面壳（托盘驻留、无内置 Node） ⭐4
 - [dsh-desktop-window](https://github.com/fengzhiyushui/dsh-desktop-window) — 以独立应用窗口打开 Web UI（自动开窗 + 设置开关） · `dsh plugin add dsh-desktop-window`
 - [deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) — 现代化 DeepSeek Harness 桌面端体验 ⭐30031
